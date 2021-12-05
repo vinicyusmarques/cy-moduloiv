@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Vinicyus",
+        "lastName": "Marques",
+        "adress": "100",
+        "emailAdress": "viniteste@vini.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Livros"
+        ],
+        "selectCountries": "Hong Kong",
+        "selectYears": "1994",
+        "selectMonths": "Dezembro",
+        "pwd": "Vini@123"
+    },
+    {
+        "firstName": "Teste1",
+        "lastName": "Marques",
+        "adress": "100",
+        "emailAdress": "viniteaste@vini.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Livros"
+        ],
+        "selectCountries": "Hong Kong",
+        "selectYears": "1994",
+        "selectMonths": "Dezembro",
+        "pwd": "Vini@123"
+    }
+]
