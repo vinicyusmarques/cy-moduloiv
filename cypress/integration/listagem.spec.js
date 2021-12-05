@@ -9,7 +9,7 @@ describe('Listagem', () => {
         cy.get('table tbody tr').should('have.length', 0)
     });
 
-    it.only('Quando houver um ou mais cadastros, então a listagem deve exibir cada registro', () => {
+    it('Quando houver um ou mais cadastros, então a listagem deve exibir cada registro', () => {
         cy.fixture('listagem').then(data => {
             window.localStorage.setItem('data', JSON.stringify(data))
         })
